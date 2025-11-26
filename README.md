@@ -28,7 +28,7 @@ A brute force tool systematically attempts all possible combinations of characte
         python port_scanner.py
         python brute_forcer.py
                 OR
-        python toolkit.py *(to link your modules together.)*
+        python toolkit.py *to link your modules together*
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 # 1. Installation & Setup
