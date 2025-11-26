@@ -53,5 +53,7 @@ The toolkit follows a modular design pattern. Each tool is a separate Python mod
 
 *Select option 1 to scan a local IP (e.g., 127.0.0.1) or option 2 to test the brute force algorithm.*
 
-
+#  OUTPUT:
+<img width="801" height="357" alt="Image" src="https://github.com/user-attachments/assets/e85f15f8-f7bc-4382-93b5-ff69c1614cba" />
+<img width="397" height="568" alt="Image" src="https://github.com/user-attachments/assets/5a55e3f6-5f5e-492c-99db-af0059d34ffe" />
 
