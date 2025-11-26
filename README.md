@@ -54,5 +54,7 @@ The toolkit follows a modular design pattern. Each tool is a separate Python mod
 *Select option 1 to scan a local IP (e.g., 127.0.0.1) or option 2 to test the brute force algorithm.*
 
 #  OUTPUT:
-        <img width="931" height="317" alt="Image" src="https://github.com/user-attachments/assets/9ec467d2-d5b6-4bac-b5a5-a79e324e7af2" />
-        <img width="397" height="568" alt="Image" src="https://github.com/user-attachments/assets/da2f399d-c786-4882-8091-9694ced43f27" />
+python port_scanner.py
+<img width="931" height="317" alt="Image" src="https://github.com/user-attachments/assets/9ec467d2-d5b6-4bac-b5a5-a79e324e7af2" />
+python brute_forcer.py
+<img width="397" height="568" alt="Image" src="https://github.com/user-attachments/assets/da2f399d-c786-4882-8091-9694ced43f27" />
