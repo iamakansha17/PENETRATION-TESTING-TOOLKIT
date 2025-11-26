@@ -18,17 +18,17 @@
 A modular, beginner-friendly penetration testing toolkit with multiple modules:
 
 ## Module
-#01: Port Scanner
-This module uses Python's socket library to attempt TCP connections to a range of ports. If a connection is established (return code 0), the port is considered "OPEN".
+        #01: Port Scanner
+        This module uses Python's socket library to attempt TCP connections to a range of ports. If a connection is established (return code 0), the port is considered "OPEN".
 
 #02: Brute Forcer
-A brute force tool systematically attempts all possible combinations of characters to find the correct credential. This Python script uses itertools to generate combinations.
+        A brute force tool systematically attempts all possible combinations of characters to find the correct credential. This Python script uses itertools to generate combinations.
 
 ## How to Run
         python port_scanner.py
         python brute_forcer.py
                 OR
-        python toolkit.py *to link your modules together*
+        python toolkit.py  (to link your modules together)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 # 1. Installation & Setup
