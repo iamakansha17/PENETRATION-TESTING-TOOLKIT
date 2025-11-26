@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 
-## # TASK-3: PENETRATION TESTING TOOLKIT
+# TASK-3: PENETRATION TESTING TOOLKIT
 
 A modular, beginner-friendly penetration testing toolkit with multiple modules:
 
