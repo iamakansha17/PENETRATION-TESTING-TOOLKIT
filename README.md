@@ -48,8 +48,7 @@ The toolkit follows a modular design pattern. Each tool is a separate Python mod
 # 3. Main Interface Code:
         toolkit.py to link your modules together.
 
-# 4. Usage Instructions:
-        Run the toolkit from your terminal:
+# 4. Usage Instructions: Run the toolkit from your terminal:
         user@kali:~/codtech_toolkit$ python3 toolkit.py
 
 *Select option 1 to scan a local IP (e.g., 127.0.0.1) or option 2 to test the brute force algorithm.*
