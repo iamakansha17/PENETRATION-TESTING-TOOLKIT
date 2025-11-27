@@ -34,9 +34,9 @@ A modular, beginner-friendly penetration testing toolkit with multiple modules:
 # 1. Installation & Setup
 Ensure you have Python installed on your machine. No external dependencies are required for the basic versions of these scripts as they use standard libraries (socket, itertools, sys).
 
-        $ mkdir codtech_toolkit
-        $ cd codtech_toolkit
-        $ touch toolkit.py port_scanner.py brute_forcer.py
+        > mkdir codtech_toolkit
+        > cd codtech_toolkit
+        > python toolkit.py
 
 # 2. Modular Architecture
 The toolkit follows a modular design pattern. Each tool is a separate Python module that can be imported into the main driver script.
